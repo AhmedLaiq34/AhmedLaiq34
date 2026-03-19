@@ -2,8 +2,7 @@
 - I'm a Computer Science Undergraduate focused on building AI-Powered Systems, Mobile Applications,  and Cloud Infrastructure.
 - Currently building projects and learning modern AI tools.
 - Looking to collaborate on AI, Machine Learning, and Computer Vision projects.<br><br><br><br>
-Check out my portfolio:
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-laiq.vercel.app/)
+Check out my portfolio: https://ahmed-laiq.vercel.app/
 
 
 ## 🌐 Socials:
