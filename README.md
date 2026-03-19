@@ -3,8 +3,7 @@
 - Currently building projects and learning modern AI tools.
 - Looking to collaborate on AI, Machine Learning, and Computer Vision projects.<br><br><br><br>
 Check out my portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF7139.svg?logo=vercel&logoColor=white)](https://ahmed-laiq.vercel.app/)
-
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-laiq.vercel.app/)
 
 
 ## 🌐 Socials:
