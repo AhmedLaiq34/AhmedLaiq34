@@ -1,13 +1,145 @@
-# About Me:
-- I'm a Computer Science Undergraduate focused on building AI-Powered Systems, Mobile Applications,  and Cloud Infrastructure.
-- Currently building projects and learning modern AI tools.
-- Looking to collaborate on AI, Machine Learning, and Computer Vision projects.<br><br><br><br>
-Check out my portfolio: https://ahmed-laiq.vercel.app/
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" alt="Ahmed Laiq — AI engineering, backend systems, and ideas built into useful software." width="100%">
+</picture>
 
+<p align="center">
+  <a href="https://ahmedlaiq.me"><img src="https://img.shields.io/badge/PORTFOLIO-93032E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ahmed-laiq"><img src="https://img.shields.io/badge/LINKEDIN-242329?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:ahmedlaiq2004@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-242329?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ahmed"></a>
+</p>
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-laiq)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedlaiq2004@gmail.com)
+<p align="center"><a href="#a-little-about-me">About</a> · <a href="#things-ive-built">Projects</a> · <a href="#my-toolbox">Toolbox</a> · <a href="#beyond-the-repositories">Experience</a> · <a href="#a-little-motion">Contributions</a></p>
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## A little about me
+
+Hey, I'm **Ahmed** — a final-year Computer Science undergraduate at **FAST NUCES, Islamabad**, working toward a career in AI engineering.
+
+I build the systems around the model, too: the APIs, ingestion pipelines, databases, and infrastructure that turn an AI idea into something people can actually use. My work spans **RAG systems, backend engineering, Android applications, and cloud automation**.
+
+I enjoy connecting the technical details to the bigger picture. Working with stakeholders and presenting to client executives taught me something I keep coming back to:
+
+> Building software begins long before the first line of code.
+
+- **What keeps me curious:** grounded AI, better retrieval, and the engineering behind reliable applications.
+- **What I bring:** experience connecting messy data, backend services, and user-facing products.
+- **What I'd love to collaborate on:** practical AI tools, developer tools, and products with a clear problem to solve.
+
+## Things I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / Axiom
+**A RAG tutor for university curricula.**
+
+An academic assistant with document ingestion, local embeddings, MMR retrieval, and a dual-LLM setup for domain reasoning and OCR correction. Built with a containerized backend and rate limiting.
+
+`Flask` `LangChain` `ChromaDB` `Redis` `Docker`
+
+[Explore Axiom ↗](https://github.com/AhmedLaiq34/Axiom) · [Backend ↗](https://github.com/AhmedLaiq34/axiom-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / Sniff
+**From Instagram data to useful insights.**
+
+A keyword-driven Android app that finds Instagram content, turns unstructured post data into structured inputs, and runs an LLM pipeline to produce analysis.
+
+`FastAPI` `Apify` `LangChain` `Kotlin`
+
+[Explore Sniff ↗](https://github.com/AhmedLaiq34/Sniff) · [Backend ↗](https://github.com/AhmedLaiq34/sniff-backend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / Flow
+**A shared workspace for getting things done.**
+
+A team task-management app with progress tracking, authentication, real-time chat, and push notifications. Designed the database and built **40+ REST API endpoints**.
+
+`Kotlin` `PHP` `MySQL` `Firebase` `Node.js`
+
+[Explore Flow ↗](https://github.com/AhmedLaiq34/Flow) · [API ↗](https://github.com/AhmedLaiq34/php_endpoint_flow)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / HostForge
+**Static website deployment, made approachable.**
+
+A no-code tool for deploying static websites on Azure. Part of my interest in making infrastructure easier to work with.
+
+`Azure` `Cloud infrastructure`
+
+[Explore HostForge ↗](https://github.com/AhmedLaiq34/HostForge) · [Terraform CI/CD ↗](https://github.com/AhmedLaiq34/Terraform-CI-CD)
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="https://github.com/AhmedLaiq34?tab=repositories">More experiments & projects →</a></p>
+
+## My toolbox
+
+| Area | Technologies I work with |
+| :--- | :--- |
+| **Languages** | Python · C++ · SQL · Kotlin · PHP · JavaScript |
+| **AI & retrieval** | LangChain · Hugging Face · ChromaDB · Pandas · embeddings · hybrid search · reranking |
+| **Backend & data** | FastAPI · Flask · REST APIs · PostgreSQL · MySQL · Redis |
+| **Mobile & realtime** | Android · Kotlin/XML · Firebase · Node.js |
+| **Cloud & delivery** | Azure · Terraform · Docker · Git · GitHub · CI/CD |
+
+<details>
+<summary><b>Also explored along the way</b></summary>
+
+My broader project and learning toolkit includes C#, Flutter, Express.js, MongoDB, SQLite, Supabase, NumPy, scikit-learn, PyTorch, TensorFlow, and Matplotlib. I use Figma when working through interface ideas.
+
+</details>
+
+## Beyond the repositories
+
+### Intellema · AI Engineer Intern
+
+Built backend services and ingestion pipelines for an analytics SaaS using **FastAPI and PostgreSQL**, unifying exports from **3+ platforms** and exposing **20+ REST endpoints**.
+
+<details>
+<summary><b>The engineering & the people side</b></summary>
+
+- Designed a four-stage hybrid RAG pipeline: dense retrieval, BM25, Reciprocal Rank Fusion, and reranking, grounded in three domain knowledge bases.
+- Implemented chunking, embeddings, and metadata-filtered retrieval; shipped Docker-containerized services with async workers.
+- Led stakeholder meetings to connect product requirements with the technical roadmap.
+- Presented technical work to client executives and helped scope AI transformation proposals.
+
+</details>
+
+### CloudMania Solutions · DevOps Engineer Intern
+
+Worked on **Azure infrastructure and Terraform automation**, provisioning and managing **10+ cloud resources** and streamlining deployment workflows.
+
+<details>
+<summary><b>A closer look at the infrastructure work</b></summary>
+
+- Automated provisioning with Terraform, reducing manual configuration effort by an estimated 80%.
+- Supported deployment pipelines and improved CI/CD workflows through infrastructure automation.
+- Internship: July–September 2025.
+
+</details>
+
+## A little motion
+
+<!-- This is an animation of contribution history, not a playable game. -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg">
+  <img src="assets/contributions-dark.svg" alt="Animated snake following Ahmed's GitHub contribution graph. Generated by the included GitHub Actions workflow." width="100%">
+</picture>
+
+<p align="center"><sub>A small side quest for my contribution graph. Updated daily with GitHub Actions.</sub></p>
+
+---
+
+<p align="center"><b>Have a problem worth building for?</b><br>I'd love to hear about it.<br><br><a href="mailto:ahmedlaiq2004@gmail.com">ahmedlaiq2004@gmail.com</a> · <a href="https://ahmedlaiq.me">ahmedlaiq.me</a></p>

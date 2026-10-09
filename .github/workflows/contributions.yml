@@ -1,0 +1,50 @@
+name: Animate contributions
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - ".github/workflows/contributions.yml"
+
+concurrency:
+  group: profile-contribution-animation
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate contribution animations
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/contributions-dark.svg?palette=github-dark&color_snake=#ec8da9&color_dots=#242329,#461526,#6c1d3a,#93032e,#c84b70
+            assets/contributions-light.svg?color_snake=#93032e&color_dots=#eee7e2,#efd3db,#d99aae,#b94e72,#93032e
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save generated assets
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions-dark.svg assets/contributions-light.svg
+          if git diff --cached --quiet; then
+            echo "Contribution assets are already up to date."
+            exit 0
+          fi
+          git commit -m "Update contribution animation"
+          git push origin "HEAD:$DEFAULT_BRANCH"
