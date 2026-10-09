@@ -35,6 +35,6 @@
 <circle class="halo" cx="790" cy="150" r="15" fill="none" stroke="#93032e"/>
 <g fill="#65555e" font-size="12" letter-spacing="1.5" class="mono"><text x="768" y="123">IDEAS</text><text x="891" y="219">SYSTEMS</text><text x="1005" y="356">IMPACT</text></g>
 <path d="M50 361 H680" stroke="#ded1d5"/>
-<text x="50" y="391" fill="#65555e" font-size="13" class="mono">FAST NUCES  /  COMPUTER SCIENCE</text>
+<circle class="halo" cx="56" cy="387" r="9" fill="none" stroke="#93032e"/><circle cx="56" cy="387" r="4" fill="#93032e"/><text x="76" y="391" fill="#65555e" font-size="13" class="mono">SWE INTERN @ FIQROS  /  FAST NUCES</text>
 <text x="1150" y="391" fill="#93032e" font-size="13" text-anchor="end" class="mono">ahmedlaiq.me</text>
 </svg>

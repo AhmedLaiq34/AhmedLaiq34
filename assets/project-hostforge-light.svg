@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="340" viewBox="0 0 590 340" role="img" aria-labelledby="title desc">
+<title id="title">HostForge, cloud tooling</title>
+<desc id="desc">HostForge: Static website deployment, made approachable. A no-code tool for deploying static websites on Azure. Part of my interest in making infrastructure easier to work with. Built with Azure, Cloud infrastructure.</desc>
+<defs>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ded1d5" stroke-width="0.7"/></pattern>
+ <linearGradient id="fade"><stop stop-color="#f4efe7" stop-opacity="1"/><stop offset="1" stop-color="#f4efe7" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+ text{font-family:'DejaVu Sans',Arial,sans-serif}
+ .mono{font-family:'DejaVu Sans Mono',Consolas,monospace}
+ .signal{stroke-dasharray:6 94;animation:travel 12s linear infinite}
+ .cursor{animation:blink 1.3s steps(1) infinite}
+ .halo{transform-box:fill-box;transform-origin:center;animation:breathe 4s ease-in-out infinite}
+ .rise{animation:rise .8s ease-out backwards}
+ @keyframes travel{to{stroke-dashoffset:-100}}
+ @keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+ @keyframes breathe{0%,100%{opacity:.25;transform:scale(1)}50%{opacity:.65;transform:scale(1.18)}}
+ @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+ @media(prefers-reduced-motion:reduce){.signal,.cursor,.halo,.rise{animation:none}}
+</style>
+<rect x="1" y="1" width="588" height="338" rx="18" fill="#f4efe7" stroke="#ded1d5" stroke-width="2"/>
+
+<text x="30" y="46" fill="#93032e" font-size="14" font-weight="700" class="mono">04</text><text x="56" y="46" fill="#65555e" font-size="12" letter-spacing="2.5" class="mono">/ CLOUD TOOLING</text><text x="28" y="108" fill="#171310" font-size="46" font-weight="700" letter-spacing="-2">HostForge<tspan fill="#93032e">.</tspan></text><text x="30" y="146" fill="#93032e" font-size="17" font-weight="500">Static website deployment, made approachable.</text><text x="30" y="184" fill="#65555e" font-size="14">A no-code tool for deploying static websites on Azure.</text><text x="30" y="207" fill="#65555e" font-size="14">Part of my interest in making infrastructure easier</text><text x="30" y="230" fill="#65555e" font-size="14">to work with.</text><rect x="30" y="256" width="58" height="26" rx="8" fill="#eee2e1" stroke="#ded1d5"/><text x="59.0" y="273.2" fill="#171310" font-size="12" text-anchor="middle" class="mono">Azure</text><rect x="96" y="256" width="166" height="26" rx="8" fill="#eee2e1" stroke="#ded1d5"/><text x="179.0" y="273.2" fill="#171310" font-size="12" text-anchor="middle" class="mono">Cloud infrastructure</text><path d="M30 306 H560" stroke="#ded1d5"/><path class="signal" pathLength="100" d="M30 306 H560" stroke="#93032e" stroke-width="2" style="animation-duration:9s;animation-delay:-6s"/><text x="30" y="327" fill="#65555e" font-size="11" class="mono">github.com/AhmedLaiq34/HostForge</text><text x="560" y="327" fill="#93032e" font-size="11" letter-spacing="2" text-anchor="end" class="mono">OPEN ↗</text><rect x="1" y="1" width="588" height="338" rx="16" fill="none" stroke="#ded1d5" stroke-width="2"/>
+</svg>

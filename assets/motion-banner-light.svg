@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+<title id="title">A little motion</title>
+<desc id="desc">A small side quest on my contribution graph.</desc>
+<defs>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ded1d5" stroke-width="0.7"/></pattern>
+ <linearGradient id="fade"><stop stop-color="#f4efe7" stop-opacity="1"/><stop offset="1" stop-color="#f4efe7" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+ text{font-family:'DejaVu Sans',Arial,sans-serif}
+ .mono{font-family:'DejaVu Sans Mono',Consolas,monospace}
+ .signal{stroke-dasharray:6 94;animation:travel 12s linear infinite}
+ .cursor{animation:blink 1.3s steps(1) infinite}
+ .halo{transform-box:fill-box;transform-origin:center;animation:breathe 4s ease-in-out infinite}
+ .rise{animation:rise .8s ease-out backwards}
+ @keyframes travel{to{stroke-dashoffset:-100}}
+ @keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+ @keyframes breathe{0%,100%{opacity:.25;transform:scale(1)}50%{opacity:.65;transform:scale(1.18)}}
+ @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+ @media(prefers-reduced-motion:reduce){.signal,.cursor,.halo,.rise{animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="198" rx="18" fill="#f4efe7" stroke="#ded1d5" stroke-width="2"/>
+<rect x="700" y="20" width="475" height="160" fill="url(#grid)" opacity=".55"/><rect x="670" y="20" width="400" height="160" fill="url(#fade)"/>
+<path d="M49 50 H79" stroke="#93032e" stroke-width="5"/><text x="94" y="56" fill="#65555e" font-size="14" letter-spacing="2.5" class="mono">07 / CONTRIBUTIONS</text><text x="46" y="124" fill="#171310" font-size="50" font-weight="700" letter-spacing="-2.5">A little motion<tspan fill="#93032e">.</tspan></text><text x="50" y="160" fill="#65555e" font-size="18">A small side quest on my contribution graph.</text><path d="M790 140 H855 Q875 140 875 120 V100 Q875 80 895 80 H1010 Q1030 80 1030 60" stroke="#ded1d5" stroke-width="3" fill="none"/><path class="signal" pathLength="100" d="M790 140 H855 Q875 140 875 120 V100 Q875 80 895 80 H1010 Q1030 80 1030 60" stroke="#93032e" stroke-width="3" fill="none" style="animation-duration:12s"/><g fill="#f4efe7" stroke="#93032e" stroke-width="2"><circle cx="790" cy="140" r="8"/><circle cx="940" cy="80" r="8"/><circle cx="1030" cy="60" r="8"/></g><circle class="halo" cx="790" cy="140" r="15" fill="none" stroke="#93032e"/><g fill="#65555e" font-size="12" letter-spacing="1.5" class="mono" text-anchor="middle"><text x="790" y="118">COMMIT</text><text x="940" y="58">PUSH</text><text x="1030" y="38">REPEAT</text></g>
+</svg>
