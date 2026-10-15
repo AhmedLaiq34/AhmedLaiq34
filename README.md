@@ -34,11 +34,11 @@
   <img src="assets/sonder-dark.svg" alt="Currently building Sonder, my final year project at FAST School of Computing. Most learning tools tell a student they got it wrong. Sonder finds out why." width="100%">
 </picture>
 
-> Sonder works out **which specific misunderstanding** sits behind a Grade 8 student's wrong answer in Maths, Physics or Chemistry. Then it gives that student a learning activity built for that exact misunderstanding, and checks later that the idea stuck.
+> Sonder works out **which specific misunderstanding** sits behind a Grade 8 student's wrong answer in Mathematics concepts. Then it gives that student a learning activity built for that exact misunderstanding, and checks later that the idea stuck.
 >
 > Every diagnosis comes from **transparent logic, not a black-box AI model**, and teachers approve everything before a student or parent sees it.
 >
-> Built with a team of three: the diagnostic engine, content for all three subjects, and the teacher and student app. We're now preparing for classroom pilots.
+> Built with a team of three: the diagnostic engine, content for the Mathematics subject and the teacher and student app. We're now preparing for classroom pilots.
 
 <br>
 
