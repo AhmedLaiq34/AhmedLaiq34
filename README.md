@@ -16,7 +16,7 @@
 <a id="about"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg">
-  <img src="assets/about-dark.svg" alt="Hey, I'm Ahmed. Final-year Computer Science student at FAST NUCES and AI Engineer Intern at SkyLabs AI. I work around AI engineering, model evaluation, backend systems, and retrieval pipelines. I care about the systems around the model: the APIs, pipelines, evaluation, and infrastructure that make an idea usable." width="100%">
+  <img src="assets/about-dark.svg" alt="Hey, I'm Ahmed. Final-year Computer Science student at FAST NUCES and AI Engineer Intern at SkyLabs AI. I work on AI engineering, model evaluation and reliability, backend systems, APIs, and RAG pipelines—building practical software around AI models." width="100%">
 </picture>
 
 <br>
@@ -24,7 +24,7 @@
 <a id="experience"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
-  <img src="assets/experience-dark.svg" alt="Experience. AI Engineer Intern at SkyLabs AI: designing benchmarks and evaluation suites for AI products, analyzing model outputs, and identifying quality and reliability improvements. Software Engineer Intern at Fiqros: CopilotKit documentation validation, local development testing, debugging, and contributions to internal testing tools. AI Engineer Intern at Intellema: FastAPI and PostgreSQL analytics SaaS backend, 3+ platforms unified, 20+ REST endpoints, and hybrid RAG pipeline. DevOps Engineer Intern at CloudMania Solutions, July to September 2025: Azure and Terraform automation, 10+ cloud resources, estimated 80% reduction in manual configuration." width="100%">
+  <img src="assets/experience-dark.svg" alt="Experience. Current AI Engineer Intern at SkyLabs AI: designing benchmarks and evaluation suites for AI products, assessing model performance, quality and reliability, and analyzing outputs against defined criteria to identify gaps and recommend improvements. Software Engineer Intern at Fiqros: developer tooling and internal testing workflows; release-based validation of CopilotKit documentation and integration examples locally; identifying documentation/implementation inconsistencies; and code fixes and improvements to Fiqros's internal documentation-testing tooling through Git pull requests. AI Engineer Intern at Intellema: FastAPI and PostgreSQL analytics SaaS backend, 3+ platforms, 20+ REST endpoints, and four-stage hybrid RAG with dense retrieval, BM25, Reciprocal Rank Fusion and reranking; stakeholder and client-facing research. DevOps Engineer Intern at CloudMania Solutions: Azure and Terraform automation across 10+ cloud resources, reducing manual configuration by approximately 80%." width="100%">
 </picture>
 
 <br>
@@ -32,14 +32,14 @@
 <a id="now"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sonder-light.svg">
-  <img src="assets/sonder-dark.svg" alt="Currently building Sonder, my final year project at FAST School of Computing. An adaptive learning system that identifies the misconceptions behind incorrect student answers using Bayesian reasoning and information theory." width="100%">
+  <img src="assets/sonder-dark.svg" alt="Sonder is our team-of-three final-year project for diagnosing Grade 8 Mathematics misconceptions. Bayesian reasoning and Shannon entropy identify likely misconceptions; adaptive questioning reduces diagnostic uncertainty using a curated static misconception dataset. Its diagnosis is transparent rather than guessed by an LLM, and teachers validate the learning content." width="100%">
 </picture>
 
 > Sonder is built around a simple question: **What if getting an answer wrong was just the beginning of understanding why?**
 >
-> Rather than treating every incorrect answer the same way, Sonder uses Bayesian reasoning to estimate which misconception is most likely responsible. It then selects follow-up questions that reduce uncertainty and help narrow down the diagnosis.
+> Focused on Grade 8 Mathematics, Sonder uses Bayesian reasoning and Shannon entropy to identify likely misconceptions and adapt questions to reduce diagnostic uncertainty.
 >
-> The system uses a curated misconception dataset and adaptive questioning, with transparent diagnostic logic rather than relying on an LLM to guess what a student misunderstands.
+> It uses a curated, static misconception dataset and transparent diagnostic logic rather than relying on an LLM to guess what a student misunderstands. Teachers validate the learning content.
 >
 > Built by a team of three as our final-year project, with a focus on making misconception diagnosis more targeted, interpretable, and useful for learning.
 
@@ -91,7 +91,7 @@
 <a id="toolbox"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg">
-  <img src="assets/toolbox-dark.svg" alt="Toolbox. Languages: Python, C++, SQL, Kotlin, PHP, JavaScript. AI and retrieval: LangChain, LangGraph, Hugging Face, ChromaDB, embeddings, hybrid search, reranking, model evaluation. Backend and data: FastAPI, Flask, REST APIs, PostgreSQL, MySQL, Redis. Mobile and realtime: Android, Kotlin/XML, Firebase, Node.js. Cloud and delivery: Azure, Terraform, Docker, Git, GitHub, CI/CD. Also explored: C#, Flutter, Express.js, MongoDB, SQLite, Supabase, NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Figma." width="100%">
+  <img src="assets/toolbox-dark.svg" alt="Toolbox. Languages: Python, C++, SQL, Kotlin, PHP, JavaScript. AI and retrieval: LangChain, LangGraph, Hugging Face, ChromaDB, embeddings, hybrid search, reranking. AI engineering and evaluation: AI engineering, model evaluation, benchmarking. Backend and data: FastAPI, Flask, REST APIs, PostgreSQL, MySQL, Redis. Mobile and realtime: Android, Kotlin/XML, Firebase, Node.js. Cloud and delivery: Azure, Terraform, Docker, Git, GitHub, CI/CD. Also explored: C#, Flutter, Express.js, MongoDB, SQLite, Supabase, NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Figma." width="100%">
 </picture>
 
 <br>
