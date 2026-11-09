@@ -1,6 +1,7 @@
+```html
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-dark.svg" alt="Ahmed Laiq — AI engineering, backend systems, and ideas built into useful software. Software engineer intern at Fiqros." width="100%">
+  <img src="assets/header-dark.svg" alt="Ahmed Laiq — AI engineering, backend systems, and ideas built into useful software. AI Engineer Intern at SkyLabs AI." width="100%">
 </picture>
 
 <p align="center">
@@ -15,7 +16,7 @@
 <a id="about"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg">
-  <img src="assets/about-dark.svg" alt="Hey, I'm Ahmed. Final-year Computer Science student at FAST NUCES and software engineer intern at Fiqros, headed toward AI engineering. I care about the systems around the model: the APIs, pipelines and infrastructure that make an idea usable. Building software begins long before the first line of code." width="100%">
+  <img src="assets/about-dark.svg" alt="Hey, I'm Ahmed. Final-year Computer Science student at FAST NUCES and AI Engineer Intern at SkyLabs AI. I work around AI engineering, model evaluation, backend systems, and retrieval pipelines. I care about the systems around the model: the APIs, pipelines, evaluation, and infrastructure that make an idea usable." width="100%">
 </picture>
 
 <br>
@@ -23,7 +24,7 @@
 <a id="experience"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
-  <img src="assets/experience-dark.svg" alt="Experience. Now: Software Engineer Intern at Fiqros. AI Engineer Intern at Intellema: FastAPI and PostgreSQL backend for an analytics SaaS, 3+ platforms unified, 20+ REST endpoints, a four-stage hybrid RAG pipeline of dense retrieval, BM25, Reciprocal Rank Fusion and reranking, and stakeholder meetings with client executives. DevOps Engineer Intern at CloudMania Solutions, July to September 2025: Azure and Terraform automation, 10+ cloud resources, an estimated 80% less manual configuration." width="100%">
+  <img src="assets/experience-dark.svg" alt="Experience. AI Engineer Intern at SkyLabs AI: designing benchmarks and evaluation suites for AI products, analyzing model outputs, and identifying quality and reliability improvements. Software Engineer Intern at Fiqros: CopilotKit documentation validation, local development testing, debugging, and contributions to internal testing tools. AI Engineer Intern at Intellema: FastAPI and PostgreSQL analytics SaaS backend, 3+ platforms unified, 20+ REST endpoints, and hybrid RAG pipeline. DevOps Engineer Intern at CloudMania Solutions, July to September 2025: Azure and Terraform automation, 10+ cloud resources, estimated 80% reduction in manual configuration." width="100%">
 </picture>
 
 <br>
@@ -31,14 +32,16 @@
 <a id="now"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sonder-light.svg">
-  <img src="assets/sonder-dark.svg" alt="Currently building Sonder, my final year project at FAST School of Computing. Most learning tools tell a student they got it wrong. Sonder finds out why." width="100%">
+  <img src="assets/sonder-dark.svg" alt="Currently building Sonder, my final year project at FAST School of Computing. An adaptive learning system that identifies the misconceptions behind incorrect student answers using Bayesian reasoning and information theory." width="100%">
 </picture>
 
-> Sonder works out **which specific misunderstanding** sits behind a Grade 8 student's wrong answer in Mathematics concepts. Then it gives that student a learning activity built for that exact misunderstanding, and checks later that the idea stuck.
+> Sonder is built around a simple question: **What if getting an answer wrong was just the beginning of understanding why?**
 >
-> Every diagnosis comes from **transparent logic, not a black-box AI model**, and teachers approve everything before a student or parent sees it.
+> Rather than treating every incorrect answer the same way, Sonder uses Bayesian reasoning to estimate which misconception is most likely responsible. It then selects follow-up questions that reduce uncertainty and help narrow down the diagnosis.
 >
-> Built with a team of three: the diagnostic engine, content for the Mathematics subject and the teacher and student app. We're now preparing for classroom pilots.
+> The system uses a curated misconception dataset and adaptive questioning, with transparent diagnostic logic rather than relying on an LLM to guess what a student misunderstands.
+>
+> Built by a team of three as our final-year project, with a focus on making misconception diagnosis more targeted, interpretable, and useful for learning.
 
 <br>
 
@@ -88,7 +91,7 @@
 <a id="toolbox"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg">
-  <img src="assets/toolbox-dark.svg" alt="Toolbox. Languages: Python, C++, SQL, Kotlin, PHP, JavaScript. AI and retrieval: LangChain, Hugging Face, ChromaDB, Pandas, embeddings, hybrid search, reranking. Backend and data: FastAPI, Flask, REST APIs, PostgreSQL, MySQL, Redis. Mobile and realtime: Android, Kotlin/XML, Firebase, Node.js. Cloud and delivery: Azure, Terraform, Docker, Git, GitHub, CI/CD. Also explored: C#, Flutter, Express.js, MongoDB, SQLite, Supabase, NumPy, scikit-learn, PyTorch, TensorFlow, Matplotlib, Figma." width="100%">
+  <img src="assets/toolbox-dark.svg" alt="Toolbox. Languages: Python, C++, SQL, Kotlin, PHP, JavaScript. AI and retrieval: LangChain, LangGraph, Hugging Face, ChromaDB, embeddings, hybrid search, reranking, model evaluation. Backend and data: FastAPI, Flask, REST APIs, PostgreSQL, MySQL, Redis. Mobile and realtime: Android, Kotlin/XML, Firebase, Node.js. Cloud and delivery: Azure, Terraform, Docker, Git, GitHub, CI/CD. Also explored: C#, Flutter, Express.js, MongoDB, SQLite, Supabase, NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Figma." width="100%">
 </picture>
 
 <br>
@@ -123,3 +126,4 @@
 </picture>
 
 <p align="center"><a href="mailto:ahmedlaiq2004@gmail.com">ahmedlaiq2004@gmail.com</a> · <a href="https://ahmedlaiq.me">ahmedlaiq.me</a> · <a href="https://www.linkedin.com/in/ahmed-laiq">LinkedIn</a> · <a href="https://www.instagram.com/worksandwonder/">@worksandwonder</a></p>
+```
