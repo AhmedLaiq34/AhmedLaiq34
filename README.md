@@ -1,4 +1,4 @@
-```html
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
   <img src="assets/header-dark.svg" alt="Ahmed Laiq — AI engineering, backend systems, and ideas built into useful software. AI Engineer Intern at SkyLabs AI." width="100%">
@@ -126,4 +126,3 @@
 </picture>
 
 <p align="center"><a href="mailto:ahmedlaiq2004@gmail.com">ahmedlaiq2004@gmail.com</a> · <a href="https://ahmedlaiq.me">ahmedlaiq.me</a> · <a href="https://www.linkedin.com/in/ahmed-laiq">LinkedIn</a> · <a href="https://www.instagram.com/worksandwonder/">@worksandwonder</a></p>
-```
