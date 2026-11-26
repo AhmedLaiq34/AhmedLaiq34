@@ -16,7 +16,7 @@
 <a id="about"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg">
-  <img src="assets/about-dark.svg" alt="Hey, I'm Ahmed. Final-year Computer Science student at FAST NUCES and AI Engineer Intern at SkyLabs AI. I work on AI engineering, model evaluation and reliability, backend systems, APIs, and RAG pipelines—building practical software around AI models." width="100%">
+  <img src="assets/about-dark.svg" alt="Hey, I&#x27;m Ahmed. Final-year Computer Science student at FAST NUCES and AI Engineer Intern at SkyLabs AI. I build LLM applications and agents: RAG pipelines, FastAPI backends and agentic evaluation pipelines, with a focus on AI that is grounded and reliable." width="100%">
 </picture>
 
 <br>
@@ -24,7 +24,7 @@
 <a id="experience"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg">
-  <img src="assets/experience-dark.svg" alt="Experience. Current AI Engineer Intern at SkyLabs AI: designing benchmarks and evaluation suites for AI products, assessing model performance, quality and reliability, and analyzing outputs against defined criteria to identify gaps and recommend improvements. Software Engineer Intern at Fiqros: developer tooling and internal testing workflows; release-based validation of CopilotKit documentation and integration examples locally; identifying documentation/implementation inconsistencies; and code fixes and improvements to Fiqros's internal documentation-testing tooling through Git pull requests. AI Engineer Intern at Intellema: FastAPI and PostgreSQL analytics SaaS backend, 3+ platforms, 20+ REST endpoints, and four-stage hybrid RAG with dense retrieval, BM25, Reciprocal Rank Fusion and reranking; stakeholder and client-facing research. DevOps Engineer Intern at CloudMania Solutions: Azure and Terraform automation across 10+ cloud resources, reducing manual configuration by approximately 80%." width="100%">
+  <img src="assets/experience-dark.svg" alt="Experience. Current AI Engineer Intern at SkyLabs AI: designed benchmarks and evaluation suites for a proprietary AI product across 7+ large repositories spanning Python, C++, Java and Go, and architected 3+ agentic pipelines to evaluate it, surfacing 3+ major issues for escalation. Software Engineer Intern at Fiqros: tested CopilotKit integrations across releases in 3+ frameworks including React, Angular and React Native, ran examples locally against the documentation, and contributed fixes through 10+ merged pull requests, improving tooling for repeatable integration checks. AI Engineer Intern at Intellema: FastAPI and PostgreSQL analytics SaaS backend, 3+ platforms, 20+ REST endpoints, four-stage hybrid RAG with dense retrieval, BM25, Reciprocal Rank Fusion and reranking; stakeholder and client-facing research. DevOps Engineer Intern at CloudMania Solutions: Azure and Terraform automation, 10+ cloud resources, approximately 80% less manual configuration." width="100%">
 </picture>
 
 <br>
@@ -91,7 +91,7 @@
 <a id="toolbox"></a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/toolbox-light.svg">
-  <img src="assets/toolbox-dark.svg" alt="Toolbox. Languages: Python, C++, SQL, Kotlin, PHP, JavaScript. AI and retrieval: LangChain, LangGraph, Hugging Face, ChromaDB, embeddings, hybrid search, reranking. AI engineering and evaluation: AI engineering, model evaluation, benchmarking. Backend and data: FastAPI, Flask, REST APIs, PostgreSQL, MySQL, Redis. Mobile and realtime: Android, Kotlin/XML, Firebase, Node.js. Cloud and delivery: Azure, Terraform, Docker, Git, GitHub, CI/CD. Also explored: C#, Flutter, Express.js, MongoDB, SQLite, Supabase, NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, Matplotlib, Figma." width="100%">
+  <img src="assets/toolbox-dark.svg" alt="Toolbox. Languages: Python, TypeScript, SQL, C++, Java, Kotlin; LLMs &amp; Agents: Claude API, OpenAI API, Gemini, Groq, LangChain, LangGraph, MCP, Hugging Face; Eval &amp; Reliability: Benchmarking, LLM evaluation, Regression testing, Agentic pipelines, Guardrails, Function calling; Retrieval &amp; Data: PostgreSQL, pgvector, Embeddings, Hybrid search, Reranking, Knowledge graphs, pandas, NumPy; Backend &amp; Infra: FastAPI, Node.js, Bun, REST APIs, OAuth 2.0, Docker, Supabase, Firebase, Vercel; Cloud &amp; Delivery: Azure, Terraform, Azure DevOps, GitHub Actions, CI/CD, Git, Linux. Also explored: React, Playwright, TensorFlow, scikit-learn, GANs, Flask, ChromaDB, Redis, MySQL, PHP, Android, Flutter, MongoDB, Express.js, Figma." width="100%">
 </picture>
 
 <br>
